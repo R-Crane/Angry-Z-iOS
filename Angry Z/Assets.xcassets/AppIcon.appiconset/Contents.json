@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "pixlr-image-generator-356d7200-68f2-4794-8689-7650613cd90b.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
